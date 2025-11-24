@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">volley</string>
+    <string-array name="villes">
+        <item>Rabat</item>
+        <item>Casablanca</item>
+        <item>Marrakech</item>
+        <item>Fès</item>
+        <item>Tanger</item>
+        <item>Agadir</item>
+    </string-array>
+</resources>

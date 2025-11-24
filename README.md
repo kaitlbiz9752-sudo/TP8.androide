@@ -56,6 +56,7 @@ Tous ces scripts renvoient des réponses au format JSON pour être facilement in
 
 **Affichage Postman**
 
+<img width="1451" height="733" alt="Capture d&#39;écran 2025-11-24 094213" src="https://github.com/user-attachments/assets/9366de92-dc9f-4457-b4a1-ba15d3d39bcb" />
 
 
 <img width="1447" height="941" alt="Capture d&#39;écran 2025-11-24 112341" src="https://github.com/user-attachments/assets/e7075ac5-75a3-4792-a9c0-a39f12b70724" />
@@ -201,6 +202,7 @@ Exemple d’organisation logique (sans code) :
 
 
 https://github.com/user-attachments/assets/05ae9db1-81fd-426f-8a88-f142b5d4c63e
+
 
 
 
